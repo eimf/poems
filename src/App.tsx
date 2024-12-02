@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { FileViewer, SearchBar, FileGrid, LoadingSpinner } from './components';
 import { useFiles, useSearch } from './hooks';
 import type { FileData } from './types';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { FileCode } from 'lucide-react';
 import type { FileData } from '../types';
 
